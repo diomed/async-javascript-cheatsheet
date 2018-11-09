@@ -344,3 +344,8 @@ footer .url {
   margin-top: -1rem;
   color: var(--grey);
 }
+
+@media print {
+   font-size: 8pt;
+}
+
